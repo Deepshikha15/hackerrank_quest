@@ -26,3 +26,10 @@ if __name__ == '__main__':
     b = int(raw_input())
     print a//b
     print a/b
+5)
+if __name__ == '__main__':
+    n = int(raw_input())
+    for i in range(5):
+        i=i*i
+        print i
+
